@@ -1,10 +1,10 @@
 personal:
-    name: "Damien DUPORTAL"
-    jobtitle: "DevOps Engineer @ Atos Worldline"
+    name: "Jean-Marc MEESSEN"
+    jobtitle: "Development Infratructure Expert"
     location:
-        city: "<i class='fa fa-map-marker'></i> Liège / Brussels"
+        city: "<i class='fa fa-map-marker'></i> Brussels"
         country: "Belgium"
-    picture: "https://dl.dropboxusercontent.com/u/2524496/ddu.jpg"
+    picture: "http://media.meessen-web.org/data/jmm.jpg"
 
 profile:
     bio: "Software Engineer focused on the 'Human stack' as well as the
@@ -78,31 +78,32 @@ education:
         Mathematics specialization, cinematography and rock-climibing options."
 
 details:
-    birthdate: "09/12/1987"
+    birthdate: "13/06/1959"
     address:
-        - "<i class='fa fa-home'></i> Victor Croisier, 6, 4000 - Liège"
+        - "<i class='fa fa-home'></i> Hockeylaan 28, <br/>1932 Zaventem <br/>Belgium"
     phonenumbers:
-        - "<i class='fa fa-mobile-phone'></i> FR : +33(0)6 50 83 37 76"
-        - "<i class='fa fa-mobile-phone'></i> BE : +33(0)4 72 97 20 06"
-    email: "<i class='fa fa-envelope'></i> damien.duportal@gmail.com"
-    github:
-        link: "https://github.com/dduportal"
-        label: "<i class='fa fa-github'></i> My github"
-    linkedin:
-        link: "https://www.linkedin.com/in/damien-duportal-ab70b524"
-        label: "<i class='fa fa-linkedin'></i> My linkedin"
+        - "<i class='fa fa-mobile-phone'></i> : +32 495 59 69 36"
+    email: "<i class='fa fa-envelope'></i> jean-marc@meessen-web.org"
     twitter:
-        link: "https://twitter.com/DamienDuportal"
-        label: "<i class='fa fa-twitter'></i> @DamienDuportal"
+        link: "https://twitter.com/JM_Meessen"
+        label: "<i class='fa fa-twitter'></i> @JM_Meessen"
+    linkedin:
+        link: "https://be.linkedin.com/in/jean-marc-meessen-a773a72"
+        label: "<i class='fa fa-linkedin'></i> My linkedin"
+    github:
+        link: "https://github.com/jmMeessen"
+        label: "<i class='fa fa-github'></i> My github"
+
 
 lists:
     - Languages:
         - French (native): 100
-        - English (865 TOEIC): 95
-        - Spanish (6 months in Chile): 60
+        - English: 100
+        - Dutch: 90
+        - German: 85
     - Soft skills:
         - Enthusiastic teacher: 95
-        - Curious learner: 90
+        - Avid learner: 90
         - Speaker: 75
         - SCRUM methodology: 60
         - Writing blog posts: 25
