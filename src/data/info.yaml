@@ -7,75 +7,78 @@ personal:
     picture: "http://media.meessen-web.org/data/jmm.jpg"
 
 profile:
-    bio: "Software Engineer focused on the 'Human stack' as well as the
-        'Technical stacks'"
+    bio: "Experienced Software Development Practitioner, <br>focused on learning and
+    evaluating new technologies, sharing his exploration with passion and coaching less experienced peers."
 
 experience:
-    - title: "Atos Worldline : Lead DevOps Engineer & technical advocate"
+    - title: "Worldline: Configuration Management Expert"
       date:
-        start: "07/2014"
+        start: "2009"
         end: "present"
-      description: "Part time bootstraping the usage of Docker within
-        Worldline by pushing an internal collaborative initiative.
-        Part time as technical 'firefighter', generally to support birth pains
-        of first production deliveries. Part time as technical advocate to the
-        internal forge to scale out to 8000 users."
-    - title: "E.N.S.G. : GIS teacher in Engineering school"
+      description: "Various active expert and coaching roles such as Open-VMS Configuration Management
+      (key for the migration to the Itanium family processor), coaching groups of young trainees, introduced Java
+      development in Worldline BE, deployment of a Continuous Integration development forge first at Belgian level
+      than at european level, active in the development track of the PCI-DSS audits, presents regular technical talks at
+      local or european level within or outside the Company. This is done while being Senior Java Developer in the Acquiring Middleware team."
+    - title: "Worldline (Banksys): Line Manager"
       date:
-        start: "12/2014"
-        end: "present"
-      description: "Teaching GIS basics to Master-2 students
-        for a 50-hours grade. Covering basics of High Availability,
-        Data management, System architectures.
-        Practical session around Geoserver to understand fault tolerance."
-    - title: "E.P.S.I. : HA teacher in Engineering school"
+        start: "2005"
+        end: "2009"
+      description: "Managed as people manager a large multi-discipline developers pool for the Banksys IT department."
+    - title: "Worldline (Banksys): Development Lead"
       date:
-        start: "03/2014"
-        end: "09/2014"
-      description: "Teaching basic concepts of High Availability to Master-1
-        students during a 20-hours grade, to 3 different groups.
-        Practical sessions around basic fault tolerance patterns."
-    - title: "Atos Worldline : Software and DevOps Engineer in a GIS project"
+        start: "1999"
+        end: "2005"
+      description: "For the Banksys export activity, lead the development of several
+      Windows NT applications like a Proton (e-purse) implementation for small environments
+      (aircraft carriers or prisons), Card Fabrication (FabCard) system. Also lead the implementation
+      of the Proton and Bancontact-Mistercash payments over the Internet."
+    - title: "Worldline (Banksys): PC End User Support Coordinator"
       date:
-        start: "04/2011"
-        end: "07/2014"
-      description: " Operational leading of a GIS platform for the French
-        Geographical Institute. Project management of new applications
-        integration, maintaining in operational state, coordinating with
-        external companies, maintaining state-of-the-art and innovative tooling.
-        Part time member of the 'Innovation Labs', teaching virtualizing
-        products and building reusable tooling for developers."
-    - title: "Atos Worldline : Platform Engineer"
+        start: "1994"
+        end: "1999"
+      description: "Was an active part of the introduction of desktop PCs in Banksys, especially
+      for terminal emultion, electronic mail, word processing and other bureautic applications. Introduced
+      professional desktop PC Management techniques (asset management, remote boot, help desk)"
+    - title: "Worldline (Bancontact): VMS System Engineer"
       date:
-        start: "12/2010"
-        end: "04/2014"
-      description: "Maintaining in operational state a set of heterogenous
-        platforms for French ministries, coordinating with production teams
-        (internals and externals)."
-    - title: "SwordGroup : Software Engineer trainee"
+        start: "1991"
+        end: "1994"
+      description: "Management of a Digital VAX-VMS cluster and the PC LANMAN
+      network running on it."
+    - title: "Worldline (Bancontact): PC Sotware Developer"
       date:
-        start: "04/2010"
-        end: "10/2010"
-      description: "Integration of open-source GIS software inside IntelliGIS,
-        a new product based on Oracle/ESRI and written in Java."
+        start: "1989"
+        end: "1991"
+      description: "Development of a networked Clipper application (MS-DOS) to manage
+      the Field Service technicians and the logistics of spare parts."
+    - title: "Europa - SCA Express : Computer Systems Executive"
+      date:
+        start: "05/1985"
+        end: "02/1989"
+      description: "Responsible of the computer system (PDP-11) of the Belgian office. <br/>
+      Automated the Custom Clearance of overnight trucks by interconnecting the local system
+      with the Ministry of Finance Custom's Computers."
+    - title: "Lieutenant in the Belgian Army"
+      date:
+        start: "03/1984"
+        end: "04/1985"
+      description: "Served for 13 months as Reserve Officer (platoon commander)
+      in an operational armoured infantry unit stationed in Germany (2CY)."
 
 education:
-    - title: "I.N.S.A. Lyon : Master's Degree of IT Engineering"
+    - title: "Master in International Relations and Public Administration"
       date:
-        start: "09/2005"
-        end: "10/2010"
-      description: "3 years studying software engineering and common IT, after
-        2 years of 'common engineering' and sciences"
-    - title: "Pontificia Universidad de Valparaíso : Academic exchange"
+        start: "09/1978"
+        end: "09/1983"
+      description: "Degree obtained at the 'Université Catholique de Louvain' (UCL), preparing
+      for a career as diplomat or high ranking civil servant. Thesis on the International Relations of Malawi."
+    - title: "Hobbies"
       date:
-        start: "06/2009"
-        end: "12/2009"
-      description: "6 month of academic exchange in IT Engineering"
-    - title: "St-Etienne : French Baccalauréat"
-      date:
-        end: "06/2005"
-      description: "Graduated with 'very good' mention in sciences series.
-        Mathematics specialization, cinematography and rock-climibing options."
+        start:
+        end:
+      description: "Radio-Amateur (call ON4KJM), Geocaching, History, Hacking with Raspberry PIes"
+
 
 details:
     birthdate: "13/06/1959"
@@ -83,7 +86,7 @@ details:
         - "<i class='fa fa-home'></i> Hockeylaan 28, <br/>1932 Zaventem <br/>Belgium"
     phonenumbers:
         - "<i class='fa fa-mobile-phone'></i> : +32 495 59 69 36"
-    email: "<i class='fa fa-envelope'></i> jean-marc@meessen-web.org"
+    email: "<i class='fa fa-envelope'></i> jmm@meessen-web.org"
     twitter:
         link: "https://twitter.com/JM_Meessen"
         label: "<i class='fa fa-twitter'></i> @JM_Meessen"
@@ -101,12 +104,6 @@ lists:
         - English: 100
         - Dutch: 90
         - German: 85
-    - Soft skills:
-        - Enthusiastic teacher: 95
-        - Avid learner: 90
-        - Speaker: 75
-        - SCRUM methodology: 60
-        - Writing blog posts: 25
     - Skills:
         - Docker: 100
         - SCMs (Git/Mercurial): 90
@@ -121,6 +118,12 @@ lists:
         - Java: 55
         - Perl: 50
         - Ruby: 45
+    - Soft skills:
+        - Enthusiastic teacher: 95
+        - Avid learner: 90
+        - Speaker: 75
+        - SCRUM methodology: 60
+        - Writing blog posts: 25
 
 links:
     - "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600"
