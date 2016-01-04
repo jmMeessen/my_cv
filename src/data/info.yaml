@@ -105,25 +105,24 @@ lists:
         - Dutch: 90
         - German: 85
     - Skills:
-        - Docker: 100
-        - SCMs (Git/Mercurial): 90
-        - VirtualBox / Vagrant: 90
+        - Java: 100
+        - Git and Gitflow: 100
+        - Maven: 100
         - Jenkins: 90
         - Linux: 85
-        - Hashicorp stack (Packer/Terraform/Consul): 85
-        - Provisionners (Ansible, Chef) : 80
+        - Docker: 100
+        - VirtualBox / Vagrant: 90
+        - Ansible: 80
         - Bash: 80
-        - Javascript: 60
         - Golang: 60
-        - Java: 55
+        - C: 55
         - Perl: 50
-        - Ruby: 45
     - Soft skills:
         - Enthusiastic teacher: 95
         - Avid learner: 90
         - Speaker: 75
         - SCRUM methodology: 60
-        - Writing blog posts: 25
+        - Coach: 25
 
 links:
     - "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600"
