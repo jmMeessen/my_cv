@@ -1,12 +1,12 @@
 {
   "name": "curriculum_vitae",
   "version": "1.0.0",
-  "description": "CV of Damien DUPORTAL in markdown source",
-  "repository": "https://github.com/dduportal/curriculum_vitae",
+  "description": "CV of Jean-Marc MEESSEN in markdown source",
+  "repository": "https://github.com/jmMeessen/curriculum_vitae.git",
   "readme": "README.md",
   "private": true,
   "main": "cv.html",
-  "author": "Damien DUPORTAL",
+  "author": "Jean-Marc MEESSEN",
   "license": "ISC",
   "devDependencies": {
     "connect-livereload": "^0.5.3",

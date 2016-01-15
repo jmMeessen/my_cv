@@ -28,7 +28,7 @@ combine heterogenous tools.
   - [HTML version](./src/export/cv.html)
   - PDF version (not available yet)
 * Rendering from YAML to HTML is done with [HAML engine][2]
-* This is mainly a fork of [hoogeveen/cv](https://github.com/hoogeveen/cv), thanks for this great work !
+* This is mainly a fork of [dduportal](https://github.com/dduportal/curriculum_vitae), thanks for this great work !
 
 # How ?
 
