@@ -1,5 +1,6 @@
 FROM alpine:latest
 MAINTAINER Damien DUPORTAL <damien.duportal@gmail.com>
+MAINTAINER Jean-Marc MEESSEN <jean-marc@meessen-web.org>
 
 RUN apk --update add \
         git \
