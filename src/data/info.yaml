@@ -73,11 +73,10 @@ education:
         end: "09/1983"
       description: "Degree obtained at the 'Université Catholique de Louvain' (UCL), preparing
       for a career as diplomat or high ranking civil servant. Thesis on the International Relations of Malawi."
-    - title: "Hobbies"
-      date:
-        start:
-        end:
-      description: "Radio-Amateur (call ON4KJM), Geocaching, History, Hacking with Raspberry PIes"
+
+hobbies:
+    - title: "Geocaching, Radio-Amateur (call ON4KJM), Ornithology, History, Hacking with Raspberry PIes"
+      description: "call ON4KJM, small powered radio-telegraphy Geocaching, History, Hacking with Raspberry PIes"
 
 
 details:

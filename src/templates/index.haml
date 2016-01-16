@@ -48,6 +48,14 @@
                   %span= "#{education['date']['start']} - #{education['date']['end']}"
                   %p= education['description']
 
+        %section#hobbies.lists
+          %h2 Hobbies
+          %div.wrapper
+            %ul
+              - data['hobbies'].each do |hobbies|
+                %li
+                  %p= hobbies['title']
+
       %aside
         %section#details
           %h2 Details
@@ -87,3 +95,5 @@
           %a{:href => "https://github.com/jmMeessen/curriculum_vitae", :target => "_blank", :rel => "external"} Github
           | Inspired from
           %a{:href => "https://github.com/hoogeveen/cv", :target => "_blank", :rel => "external"} Hoogeveen/CV
+          and
+          %a{:href => "https://github.com/dduportal/curriculum_vitae", :target => "_blank", :rel => "external"} dduportal/curriculum_vitae
