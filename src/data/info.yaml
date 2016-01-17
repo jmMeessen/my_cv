@@ -15,29 +15,30 @@ experience:
       date:
         start: "2009"
         end: "present"
-      description: "Various active expert and coaching roles such as Open-VMS Configuration Management
-      (key for the migration to the Itanium family processor), coaching groups of young trainees, introduced Java
+      description: "Various expert and coaching activities such as Open-VMS Configuration Management
+      (key for the migration to the Itanium family processor), coaching groups of young trainees, introducing Java
       development in Worldline BE, deployment of a Continuous Integration development forge first at Belgian level
-      than at european level, active in the development track of the PCI-DSS audits, presents regular technical talks at
-      local or european level within or outside the Company. This is done while being Senior Java Developer in the Acquiring Middleware team."
+      then at european level, active in the development track of the PCI-DSS audits, presents regular technical talks at
+      local or european level within or outside the Company. These activities are done while acting
+      Senior Java Developer in the Acquiring Middleware team."
     - title: "Worldline (Banksys): Line Manager"
       date:
         start: "2005"
         end: "2009"
-      description: "Managed as people manager a large multi-discipline developers pool for the Banksys IT department."
-    - title: "Worldline (Banksys): Development Lead"
+      description: "Managed a large multi-discipline developers pool for the Banksys IT department."
+    - title: "Worldline (Banksys): Development Lead - Technical Product Manager"
       date:
         start: "1999"
         end: "2005"
       description: "For the Banksys export activity, lead the development of several
       Windows NT applications like a Proton (e-purse) implementation for small environments
-      (aircraft carriers or prisons), Card Fabrication (FabCard) system. Also lead the implementation
-      of the Proton and Bancontact-Mistercash payments over the Internet."
+      (aircraft carriers or prisons), Card Fabrication (FabCard) system. Also lead of the Proton and
+      Bancontact-Mistercash payments over the Internet."
     - title: "Worldline (Banksys): PC End User Support Coordinator"
       date:
         start: "1994"
         end: "1999"
-      description: "Was an active part of the introduction of desktop PCs in Banksys, especially
+      description: "Was an active part of the generalization of desktop PCs in Banksys, especially
       for terminal emultion, electronic mail, word processing and other bureautic applications. Introduced
       professional desktop PC Management techniques (asset management, remote boot, help desk)"
     - title: "Worldline (Bancontact): VMS System Engineer"
@@ -63,8 +64,8 @@ experience:
       date:
         start: "03/1984"
         end: "04/1985"
-      description: "Served for 13 months as Reserve Officer (platoon commander)
-      in an operational armoured infantry unit stationed in Germany (2CY)."
+      description: "Served 13 months as Reserve Officer (platoon commander)
+      in an operational infantry unit stationed in Germany (2CY)."
 
 education:
     - title: "Master in International Relations and Public Administration"
@@ -76,7 +77,6 @@ education:
 
 hobbies:
     - title: "Geocaching, Radio-Amateur (call ON4KJM), Ornithology, History, Hacking with Raspberry PIes"
-      description: "call ON4KJM, small powered radio-telegraphy Geocaching, History, Hacking with Raspberry PIes"
 
 
 details:
@@ -113,7 +113,7 @@ lists:
         - VirtualBox / Vagrant: 90
         - Ansible: 80
         - Bash: 80
-        - Golang: 60
+        - Golang: 50
         - C: 55
         - Perl: 50
     - Soft skills:
@@ -121,7 +121,7 @@ lists:
         - Avid learner: 90
         - Speaker: 75
         - SCRUM methodology: 60
-        - Coach: 25
+        - Coach: 70
 
 links:
     - "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600"
