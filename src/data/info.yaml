@@ -1,17 +1,17 @@
 personal:
     name: "Jean-Marc MEESSEN"
-    jobtitle: "Development Infratructure Expert"
+    jobtitle: "Development Infrastructure Expert"
     location:
         city: "<i class='fa fa-map-marker'></i> Brussels"
         country: "Belgium"
-    picture: "http://media.meessen-web.org/data/jmm.jpg"
+    picture: "https://lh3.googleusercontent.com/-OG2EWhNYJ08/AAAAAAAAAAI/AAAAAAAAAE0/lRZiOUeQTuQ/s120-c/photo.jpg"
 
 profile:
     bio: "Experienced Software Development Practitioner, <br>focused on learning and
     evaluating new technologies, sharing his exploration with passion and coaching less experienced peers."
 
 experience:
-    - title: "Worldline: Configuration Management Expert"
+    - title: "Worldline: coach DevOps"
       date:
         start: "2009"
         end: "present"
@@ -76,7 +76,7 @@ education:
       for a career as diplomat or high ranking civil servant. Thesis on the International Relations of Malawi."
 
 hobbies:
-    - title: "Geocaching, Radio-Amateur (call ON4KJM), Ornithology, History, Hacking with Raspberry PIes"
+    - title: "Geocaching, Radio-Amateur (call ON4KJM), Ornithology, History, Hacking with Raspberry Pis"
 
 
 details:
