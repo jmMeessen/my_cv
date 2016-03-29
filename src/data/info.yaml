@@ -8,17 +8,17 @@ personal:
 
 profile:
     bio: "Experienced Software Development Practitioner, <br>focused on learning and
-    evaluating new technologies, sharing his exploration with passion and coaching less experienced peers."
+    evaluating new technologies, sharing his exploration with passion and mentoring less experienced peers."
 
 experience:
     - title: "Worldline: DevOps Coach"
       date:
         start: "2009"
         end: "present"
-      description: "Various expert and coaching activities such as Open-VMS Configuration Management
+      description: "Various expert and mentoring activities such as Open-VMS Configuration Management
       (key for the migration to the Itanium family processor), coaching groups of young trainees, introducing Java
       development in Worldline BE, deployment of a Continuous Integration development forge first at Belgian level
-      then at european level, active in the development track of the PCI-DSS audits, presents regular technical talks at
+      then at european level, active in the development track of the PCI-DSS audits, presents regularly technical talks at
       local or european level within or outside the Company. These activities are done while acting as
       Senior Java Developer in the Acquiring Middleware team."
     - title: "Worldline (Banksys): Line Manager"
@@ -32,7 +32,7 @@ experience:
         end: "2005"
       description: "For the Banksys export activity, lead the development of several
       Windows NT applications like a Proton (e-purse) implementation for small environments
-      (aircraft carriers or prisons), Card Fabrication (FabCard) system. Also lead of the Proton and
+      (aircraft carriers or prisons) or a Card Fabrication (FabCard) system. Also lead of the Proton and
       Bancontact-Mistercash payments over the Internet."
     - title: "Worldline (Banksys): PC End User Support Coordinator"
       date:
@@ -121,7 +121,7 @@ lists:
         - Avid learner: 90
         - Speaker: 75
         - SCRUM methodology: 60
-        - Coach: 70
+        - Coach - Mentor: 70
 
 links:
     - "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600"
